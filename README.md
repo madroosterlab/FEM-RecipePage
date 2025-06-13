@@ -28,7 +28,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ## My process
 
-Write a peice, test, pray, continue...
+Write a piece, test, pray, continue...
 
 ### Built with
 
