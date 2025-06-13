@@ -103,3 +103,25 @@ td {
   color: hsl(14, 45%, 36%);
   font-weight: bold;
 }
+table {
+  border-collapse: collapse;
+}
+td,
+th {
+  border-bottom: 1px solid hsl(30, 10%, 34%);
+}
+.last-row {
+  border-bottom: none;
+}
+@media only screen and (max-width: 700px) {
+  main {
+    width: 75%;
+  }
+}
+@media only screen and (max-width: 600px) {
+  main {
+    width: 100%;
+    margin: 0 auto;
+    border-radius: 0;
+  }
+}
